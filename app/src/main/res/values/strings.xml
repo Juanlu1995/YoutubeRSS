@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">YoutubePlayerList</string>
+    <string name="title">title</string>
+    <string name="descargarRss">Descargar Lista YOUTUBE</string>
+</resources>
